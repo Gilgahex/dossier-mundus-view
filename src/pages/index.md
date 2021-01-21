@@ -10,10 +10,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
-
-	Code for finance calendar here
-
+    content:Code for finance calendar here
   - title: Recent Posts
     section_id: posts
     type: section_posts
