@@ -12,7 +12,7 @@ sections:
     type: section_content
     content: >-
 
-    Code for finance calendar here:
+      Code for finance calendar here
 
   - title: Recent Posts
     section_id: posts
